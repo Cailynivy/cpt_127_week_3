@@ -18,12 +18,11 @@ You should only need to change two lines of code to fix this problem!
 # Code
 
 finished_program = False
+i = 0
 
 # Count to 10 Program
 
 while finished_program == False:
-
-    i = 0
 
     print(f'Testing i = {i}')
 
